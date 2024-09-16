@@ -1,4 +1,4 @@
-# 🔶 Laze 2.0 yayında (05/25/2024)!
+# 🔶 Vanadium 1.0 yayında (05/25/2024)!
 # 🔷 [`Discord`](https://discord.gg/vanadium) sunucumuza katılmayı unutmayın.
 # ✔ [`Tıkla`](https://github.com/aaleaf/Laze/releases/tag/Laze) indir.
 
