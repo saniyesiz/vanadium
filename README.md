@@ -1,5 +1,5 @@
 # 🔶 Vanadium 1.0 yayında (05/25/2024)!
-# 🔷 [`Discord`](https://discord.gg/vanadium) sunucumuza katılmayı unutmayın.
+# 🔷 [`Discord`](https://discord.gg/ininalresmi) sunucumuza katılmayı unutmayın.
 # ✔ [`Tıkla`](https://github.com/saniyesiz/vanadium-indir/tree/main) indir.
 
 ### Combat
